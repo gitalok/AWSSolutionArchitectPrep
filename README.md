@@ -110,6 +110,7 @@
 - Identity Federation : Facebook, LinkedIn and Active Directory
 - Multi-factor authentication (**MFA**)
 	- Virtual device
+	- U2F security key
 	- Hardware device
 - Temporary access to users and services
 - Setup password rotation policy

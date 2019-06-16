@@ -98,7 +98,7 @@
 ### IAM Resources
 - Users 
 - Groups 
-- Roles 
+- Roles (Assign them to AWS resource)
 - Policies (JSON doc which defines one or more permissions)
 - Identity Provider (Single Sign On)
 	
